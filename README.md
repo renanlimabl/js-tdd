@@ -10,13 +10,11 @@ A course of WJ, about JS with TDD
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* 404
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* 404
 
 ### Executing program
 
@@ -37,8 +35,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* Renan   
 
 ## Version History
 
